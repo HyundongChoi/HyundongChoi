@@ -53,5 +53,6 @@ https://devsibong.github.io/about/
 <br>
 
 ## Contact
-* Email : seohae7785@gmail.com
+* Email: seohae7785@gmail.com
 * Github: https://github.com/devsibong
+* Blog: https://devsibong.github.io
