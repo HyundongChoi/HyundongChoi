@@ -24,25 +24,25 @@
 
 ## Tech Stack
 ### Programming Language    
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-green?style=for-the-badge&"><img alt="Static Badge" src="https://img.shields.io/badge/JAVA-green?style=for-the-badge&"><img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-green?style=for-the-badge&"> <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-green?style=for-the-badge&"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-green?style=for-the-badge&">
 
 ### Web-Front
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white">
 
 ### Web-Back
-<img alt="Static Badge" src="https://img.shields.io/badge/spring-blue?style=for-the-badge&logo=spring&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/spring boot-blue?style=for-the-badge&logo=springboot&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/spring-blue?style=for-the-badge&logo=spring&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/spring boot-blue?style=for-the-badge&logo=springboot&logoColor=white">
 
 ### RDBMS
-<img alt="Static Badge" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/oracle-blue?style=for-the-badge&logo=oracle&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/oracle-blue?style=for-the-badge&logo=oracle&logoColor=white">
 
 ### 3D Modeling & Game Programming
-<img alt="Static Badge" src="https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/unity-orange?style=for-the-badge&logo=unity&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/blender-orange?style=for-the-badge&logo=blender&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/unity-orange?style=for-the-badge&logo=unity&logoColor=white">
 
 ### Design & Video
-<img alt="Static Badge" src="https://img.shields.io/badge/illustrator-purple?style=for-the-badge&logo=adobeillustrator&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/photoshop-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/premierepro-purple?style=for-the-badge&logo=adobepremierepro&logoColor=white"><img alt="Static Badge" src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/illustrator-purple?style=for-the-badge&logo=adobeillustrator&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/photoshop-purple?style=for-the-badge&logo=adobephotoshop&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/premierepro-purple?style=for-the-badge&logo=adobepremierepro&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/figma-purple?style=for-the-badge&logo=figma&logoColor=white">
 
 ### Chemical Design & Simulation
-<img alt="Static Badge" src="https://img.shields.io/badge/chemdraw-navy?style=for-the-badge&"><img alt="Static Badge" src="https://img.shields.io/badge/materials studio-navy?style=for-the-badge&">
+<img alt="Static Badge" src="https://img.shields.io/badge/chemdraw-navy?style=for-the-badge&"> <img alt="Static Badge" src="https://img.shields.io/badge/materials studio-navy?style=for-the-badge&">
 
 <br>
 
